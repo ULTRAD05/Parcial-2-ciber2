@@ -1,0 +1,3 @@
+Su nombre es: 
+Su cédula es:
+Su dirección es: 
